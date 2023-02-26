@@ -16,6 +16,7 @@ body {
 
 header {
     background-color: var(--brand-bg-color);
+    border-bottom: 1px solid #E7E9FC;
 }
 
 .logo-top {
@@ -203,10 +204,6 @@ footer p {
 }
 
 /* Portfolio */
-
-.head-portfolio {
-    border-bottom: 1px solid #E7E9FC;
-}
 
 .bgcolor-portfolio {
     background: var(--brand-bg-color);
