@@ -89,7 +89,7 @@ body {
   background-color: var(--hero-color);
 }
 
-.hero h1 {
+.hero .hero-text {
   font-weight: 700;
   font-size: 45px;
   line-height: 1.1;
@@ -117,7 +117,7 @@ body {
 
 /* feature */
 
-.featurs h3 {
+.featurs .featurs-direction {
   font-weight: var(--font-weight-h);
   font-size: var(--font-size-h);
   line-height: var(--line-height-h);
@@ -125,7 +125,7 @@ body {
   color: var(--hero-color);
 }
 
-.featurs p {
+.featurs .featurs-text {
   font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
@@ -135,7 +135,7 @@ body {
 
 /* samples */
 
-.samples h2 {
+.samples .samples-text {
   font-weight: 700;
   font-size: 29px;
   line-height: 1.1;
@@ -147,7 +147,7 @@ body {
 
 /* team */
 
-.team h2 {
+.team .team-text {
   font-weight: 700;
   font-size: 29px;
   line-height: 1.1;
@@ -166,7 +166,7 @@ body {
   background: var(--magic-color);
 }
 
-.team-list h3 {
+.team-list .team-name {
   font-weight: var(--font-weight-h);
   font-size: var(--font-size-h);
   line-height: var(--line-height-h);
@@ -175,7 +175,7 @@ body {
   color: var(--hero-color);
 }
 
-.team-list p {
+.team-list .team-function {
   font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
@@ -208,7 +208,7 @@ footer {
   color: var(--background-color);
 }
 
-footer p {
+.advise {
   font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
@@ -236,7 +236,7 @@ footer p {
   background-color: var(--hover-color);
 }
 
-.projects-list h3 {
+.projects-direction {
   font-weight: var(--font-weight-h);
   font-size: var(--font-size-h);
   line-height: var(--line-height-h);
@@ -244,7 +244,7 @@ footer p {
   color: var(--hero-color);
 }
 
-.projects-list h4 {
+.projects-text {
   font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
