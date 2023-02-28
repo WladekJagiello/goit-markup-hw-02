@@ -1,6 +1,5 @@
 :root {
   --font-weight-h: 500;
-  --font-weight-p: 400;
   --font-size-h: 16px;
   --font-size-p: 13px;
   --line-height-h: 1.2;
@@ -68,7 +67,6 @@ body {
 
 .address-text {
   font-style: normal;
-  font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
   letter-spacing: var(--letter-spacing-p);
@@ -126,7 +124,6 @@ body {
 }
 
 .featurs .featurs-text {
-  font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
   letter-spacing: var(--letter-spacing-p);
@@ -176,7 +173,6 @@ body {
 }
 
 .team-list .team-function {
-  font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
   text-align: center;
@@ -209,7 +205,6 @@ footer {
 }
 
 .advise {
-  font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
   letter-spacing: var(--letter-spacing-p);
@@ -245,7 +240,6 @@ footer {
 }
 
 .projects-text {
-  font-weight: var(--font-weight-p);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
   letter-spacing: var(--letter-spacing-p);
